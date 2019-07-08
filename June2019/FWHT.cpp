@@ -1,4 +1,5 @@
 /*Fast Xor of every pair using fast walsh-hadamard transform (v contains the count of pairs with given xor)*/
+/* https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it */
 
 #include<bits/stdc++.h>
 using namespace std;
